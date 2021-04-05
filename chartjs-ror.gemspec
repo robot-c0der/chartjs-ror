@@ -6,11 +6,11 @@ require 'chartjs/version'
 Gem::Specification.new do |gem|
   gem.name          = "chartjs-ror"
   gem.version       = Chartjs::VERSION
-  gem.authors       = ["Adam K"]
-  gem.email         = ["robot-c0der@users.noreply.github.com"]
+  gem.authors       = ["Andy Stewart"]
+  gem.email         = ["boss@airbladesoftware.com"]
   gem.description   = 'Simplifies using Chart.js in Rails'
   gem.summary       = 'Simplifies using Chart.js in Rails'
-  gem.homepage      = 'https://github.com/robot-c0der/chartjs-ror'
+  gem.homepage      = 'https://github.com/airblade/chartjs-ror'
   gem.license       = 'MIT'
 
   gem.files         = `git ls-files`.split($/)
