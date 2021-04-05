@@ -12,7 +12,7 @@ This gem includes [Chart.js v2.7.3](https://github.com/chartjs/Chart.js/tree/v2.
 
 Add this line to your application's Gemfile:
 
-    gem 'chartjs-ror'
+    gem 'chartjs-ror', git: 'https://github.com/robot-c0der/chartjs-ror'
 
 And then execute:
 
